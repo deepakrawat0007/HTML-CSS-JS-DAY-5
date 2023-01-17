@@ -1,0 +1,49 @@
+body{
+    margin-top: 5%;
+    background-color: darkmagenta;
+}
+.wrapper{
+    background-color: whitesmoke;
+    border: 1px solid gray;
+    width: 40vw;
+    padding: 5px;
+    margin-left: 30%;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    margin-top: 5%;
+}
+  form {
+    width: 300px;
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 2.5%;
+  }
+
+  input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  label {
+    font-weight: bold;
+  }
+
+  span {
+    color: red;
+  }
+
+  #successMessage {
+    color: green;
+  }
+
+  input[type="submit"]{
+    width: 10vw;
+    margin-left: 30%;
+    height: 5vh;
+  }

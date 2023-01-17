@@ -1,0 +1,26 @@
+#app {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #zipcode {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  #submit {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+.card{
+    border: 2px solid green;
+    width: 40vw;
+    margin-top: 20px;
+    margin-left: 30%;
+    border-radius: 15px;
+    box-shadow: 0 10px 10px 10px;
+    background-color: skyblue;
+}  
